@@ -106,13 +106,14 @@ Response:
 ```
 
 
-# Contributor:
+**Contributor:**
 
-**Saharsh Raj** contributed in development of whole backend.
+**Saharsh Raj** contributed to the development of the whole Frontend.
 
-![Saharsh Raj](https://media.licdn.com/dms/image/D5603AQHT9NXGd_7nzQ/profile-displayphoto-shrink_800_800/0/1707585385345?e=1729123200&v=beta&t=dZI62sohgz-CESjdbcVJqOj0ndpLBLfMAR3mP1yvFyk)
+<img src="https://media.licdn.com/dms/image/D5603AQHT9NXGd_7nzQ/profile-displayphoto-shrink_800_800/0/1707585385345?e=1729123200&v=beta&t=dZI62sohgz-CESjdbcVJqOj0ndpLBLfMAR3mP1yvFyk" alt="Saharsh Raj" width="150" />
 
 (https://github.com/Saharsh101103)
+
 
 
 
